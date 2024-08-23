@@ -1,7 +1,7 @@
-## Electralytics
+# Electralytics
 This project demonstrates various algorithms and their usage, developed as part of the Advanced Computing Concepts course at the University of Windsor.
 
-# Features
+## Features
 Web Crawler: Utilizes Map<String, List<Product>> (HashMap) and List<Product> (ArrayList) to crawl webpages of three websites.
 HTML Parser: Uses a custom schema (Product) to get and set product details, and employs Selenium and Jsoup to parse HTML documents.
 Search Frequency: Implements a Red-Black Tree to showcase the search frequency of particular products.
